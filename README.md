@@ -1,4 +1,4 @@
-# Plateforme d'analyse de transactions end-to-end traitant 284K+ transactions de cartes de crédit avec détection d'anomalies, frameworks de qualité des données et dashboards Power BI temps réel. Construite sur Azure Databricks avec Delta Lake.
+# Plateforme d'analyse de transactions end-to-end traitant 284K+ transactions de cartes de crédit avec détection d'anomalies, frameworks de qualité des données et dashboards. Construite sur Azure Databricks avec Delta Lake.
 
 
 ## Plateforme d'Analyse de Transactions & Détection d'Anomalies
