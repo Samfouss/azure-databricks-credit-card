@@ -1,4 +1,4 @@
-# Plateforme d'analyse de transactions end-to-end traitant 284K+ transactions de cartes de crédit avec détection d'anomalies, frameworks de qualité des données et dashboards. Construite sur Azure Databricks avec Delta Lake.
+# Plateforme d'analyse de transactions end-to-end traitant 284K+ transactions de cartes de crédit avec détection d'anomalies, frameworks de qualité des données et description des données. Construite sur Azure Databricks avec Delta Lake.
 
 
 ## Plateforme d'Analyse de Transactions & Détection d'Anomalies
@@ -18,7 +18,7 @@ Objectif : Créer des tables agrégées pour analyses métier
 - **Pipeline Médaillon** : Architecture Bronze-Silver-Gold avec merges incrémentaux Delta Lake
 - **Framework de Qualité des Données** : Tests de validation automatisés (nullité, plages, intégrité référentielle)
 - **Optimisé pour la Performance** : Réduction de 35% du temps de traitement (45min → 29min) via optimisation Spark
-- **Détection d'Anomalies** : Méthodes basées sur des règles métier et statistiques pour identifier les transactions suspectes
+- **Détection d'Anomalies** : Méthodes basées sur des règles métier et statistiques descriptives pour identifier les transactions suspectes
 
 ## 🛠️ Stack Technique
 Azure Databricks • Delta Lake • PySpark • Spark SQL • Azure Data Lake Gen2
